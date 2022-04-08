@@ -1,5 +1,6 @@
 # levelup
-The level up basically is a complex website. It is responsive website build using HMTL, CSS, JAVASCRIPT as frontend and PHP MYSQL as backend. It just a demo website.
+It just a demo website.
+The level up basically is a complex website. It is responsive website build using HMTL, CSS, JAVASCRIPT as frontend and PHP MYSQL as backend. 
 Starting with header section there is navigation bar on the top which is made using html and CSS. Through this user can navigate multiple modules such as about us services, Testimonials and so on.
 Below the header section there is a crousel consist of 4 different images of different floor of the complex It is designed by using html and CSS (Cascading Style Sheet) Below the crousel there comes the about us section which gives brief information about the complex.
 Then comes our services section which shows different services offered by the complex It is made up of html and CSS. Moving towards the gallery section which shows the multiple images including multiple services such as (Rooms, types of rooms, departmental shops and gym) provided by the complex. It consists of a slider which is made up of html CSS and JavaScript
