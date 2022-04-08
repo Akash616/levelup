@@ -9,5 +9,5 @@ Then we have testimonials section detail about the founder, manager and owner of
  Moving on the website we have contact us section which is accessible only after the user login required details. The details of the user after checking stored in the database by clicking on the button provided below.
 For ease of the people, we provide a google map link to provide location of the complex. It is form using html embedded code.
 At last we have the footer of the website which consist some information include links and social media handle. You all must be wander that why their is a pop up at bottom right on screen So the pop is just to remind login
-There is sign up section which is followed up the login section which is again followed up by the contact us section The sign up form consists of PHP validation and after the successful sign up the details of the user are stored in the database. The coming to the login page the user can successfully login only after their detail is matched in stored database
- Thank you 
+There is sign up section which is followed up the login section which is again followed up by the contact us section The sign up form consists of PHP validation and after the successful sign up the details of the user are stored in the database. The coming to the login page the user can successfully login only after their detail is matched in stored database.
+Thank you 
